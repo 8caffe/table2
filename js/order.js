@@ -1,5 +1,5 @@
 const btn = document.getElementById('sendMessageButton');
-const tableNumber = "2"; // Set the table value to 
+const tableNumber = "۲"; // Set the table value to 
 document.getElementById('table').value = tableNumber ;
 
 emailjs.init('a2zpCAcOnbLh1avBW')
